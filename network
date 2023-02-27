@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:58:35.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5hQxzQdurOedh3gLhZzs" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-27T08:00:05.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C1tH_E5X_bCKQ3ySWnqW" version="20.8.23" type="github" pages="2">
   <diagram id="woU6MecTclXAj6GCZTcH" name="第 1 页">
     <mxGraphModel dx="2234" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -695,8 +695,8 @@
         <mxCell id="bFVYQPEN1aTwzY1t2T4v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bFVYQPEN1aTwzY1t2T4v-74" source="bFVYQPEN1aTwzY1t2T4v-3" target="bFVYQPEN1aTwzY1t2T4v-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bFVYQPEN1aTwzY1t2T4v-14" value="CRI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bFVYQPEN1aTwzY1t2T4v-74">
-          <mxGeometry x="477" y="75" width="60" height="30" as="geometry" />
+        <mxCell id="bFVYQPEN1aTwzY1t2T4v-14" value="CRI&lt;br&gt;Protobuf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bFVYQPEN1aTwzY1t2T4v-74">
+          <mxGeometry x="508" y="68" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bFVYQPEN1aTwzY1t2T4v-27" value="" style="group" vertex="1" connectable="0" parent="bFVYQPEN1aTwzY1t2T4v-74">
           <mxGeometry x="480" y="257" width="103" height="34" as="geometry" />
